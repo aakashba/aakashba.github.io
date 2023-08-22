@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Aakash Bansal's publications
+title: publications
 nav: true
 nav_order: 1
 ---
