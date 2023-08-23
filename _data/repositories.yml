@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aakashba
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - aakashba/humanattn
+  - aakashba/projcon
+  - aakashba/callcon-public
+  - apcl-research/TransformerFC
+  - apcl-research/scanpathpred
+  - aakashba/paqs2021
+  - apcl-research/jam
