@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-7-7 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our New Ideas and Emerging Research (NIER) paper on automated prediction of programm scanpath, accepted at ASE2023 [Check out in Publications!](publications)
