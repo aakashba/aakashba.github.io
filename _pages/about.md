@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-          <p>College of Engineering<\p>
-          <p>University of Notre Dame<\p>
-          <p>Notre Dame, IN<\p>
+    <p>165, Fitpatrick Hall</p>
+    <p>University of Notre Dame</p>
+    <p>Notre Dame, IN 46560</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
