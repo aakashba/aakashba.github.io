@@ -305,7 +305,8 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    width: 30%;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -322,7 +323,7 @@ blockquote {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
 
