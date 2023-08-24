@@ -193,6 +193,7 @@ blockquote {
 }
 
 .dropdown-item {
+  font-size: 1.7rem;
   color: var(--global-text-color);
 
   &:hover {
@@ -213,6 +214,8 @@ blockquote {
   }
 
   .navbar-nav .nav-item .nav-link {
+    font-size: 1.7rem;
+    
     color: var(--global-text-color);
 
     &:hover {
