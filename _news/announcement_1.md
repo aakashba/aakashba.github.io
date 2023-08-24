@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our New Ideas and Emerging Research (NIER) paper on automated prediction of where programmers look, accepted at ASE2023 [Check out in Publications!](publications)
+Our New Ideas and Emerging Research (NIER) paper on automated prediction of where programmers look, accepted at ASE2023 
