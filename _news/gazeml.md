@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am serving on the PC for the [Gaze meets ML workshop 2023 at NeurIPS]{https://gaze-meets-ml.github.io/gaze_ml_2023/}, please consider sumitting your work!
+I am serving on the PC for the [Gaze meets ML workshop 2023 at NeurIPS](https://gaze-meets-ml.github.io/gaze_ml_2023/), please consider sumitting your work!
