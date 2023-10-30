@@ -21,18 +21,6 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
-            <!-- Social -->
-            {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-            </div>
-          {%- endif %}
           </div>
           {%- endif %}
           <h1 class="post-title">
@@ -41,6 +29,18 @@ layout: default
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
+ <!-- Social -->
+      {%- if page.social %}
+      <div class="social">
+            <div class="contact-icons">
+                {% include social.html %}
+            </div>
+            <div class="contact-note">
+                {{ site.contact_note }}
+            </div>
+      </div>
+      {%- endif %}
+            
         <article>
           <div class="clearfix">
             {{ content }}
