@@ -24,4 +24,4 @@ I am a PhD student at the University of Notre dame advised by Prof. Collin McMil
 
 My research interests are at the intersection of AI and SE. My long-term research objective is to bridge the gap between human program comprehension and automatic program comprehension. My short-term research focus is the advancement of neural networks specializing in modeling source code. Specifically, Source code summarization, a well-defined task of taking source code and generating natural language descriptions, with applications in code documentation, education, and software maintainance to name a few. I am also interested in bio-inspired machine intelligence that drives my ongoing research. I expect to defend my thesis in April 2024.
 
-I am on the job marketin 2024! I am looking for tenure-track Assistant Professorships or Research-focused positions in industry. 
+I am on the job market in 2024! I am looking for tenure-track Assistant Professorships or Research-focused positions in industry. 
